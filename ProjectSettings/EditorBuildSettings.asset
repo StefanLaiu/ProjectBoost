@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LevelTemplate.unity
+    guid: 0fc3c30ac846a1a4f979e15fd1f30a94
+  - enabled: 1
+    path: Assets/Scenes/FlyOver.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/FlyBeneath.unity
+    guid: 884c97ed8c2de6b478fb60943bf58653
+  - enabled: 1
+    path: Assets/Scenes/FlyOverMoving.unity
+    guid: eeced4a794244eb46a1c91d8995eeb87
+  - enabled: 1
+    path: Assets/Scenes/FlyOverAndUnder.unity
+    guid: 42c05cc8c14834f498955c13fc8008b8
+  - enabled: 1
+    path: Assets/Scenes/FlyInTube.unity
+    guid: 69ea673c6b5cfc8448ca251b4596bbb7
+  - enabled: 1
+    path: Assets/Scenes/FlyAround.unity
+    guid: 13946eaf5329f5340ad7db4ebcefc2e0
+  - enabled: 1
+    path: Assets/Scenes/TwoGates.unity
+    guid: f3648facf486354459136eab2ca7f4c5
+  m_configObjects: {}
